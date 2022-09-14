@@ -1,0 +1,37 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:rgb(255, 255, 255);font-family:verdana; text-align: center;}
+h2{color: black;}
+text{color: black;}
+
+.maindiv {
+    background-color: rgb(106, 106, 106);
+    font-size: 20px;
+    border-radius: 25px;
+    margin: 2%;
+    padding: 1%;
+    align-content: center;
+} 
+
+.footer {
+    
+    text-align: center;
+    align-content: center;
+
+}
+
+.button {
+
+    align-content: center;
+    border-radius: 25px;
+    margin: 1%;
+    font-size: 20px;
+    width: 50%; 
+    padding: 15px 32px;
+    background-color: orange;
+    color: white;
+    border-width: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    cursor: pointer;
+
+}
