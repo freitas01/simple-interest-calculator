@@ -1,15 +1,16 @@
-body {background-color:black;font-family:arial;color:white}
-h1{color:rgb(255, 255, 255);font-family:verdana; text-align: center;}
+body {background-color:black; font-family:arial; color:white;}
+h1{color:grey;font-family:verdana}
 h2{color: black;}
-text{color: black;}
 
 .maindiv {
-    background-color: rgb(106, 106, 106);
-    font-size: 20px;
+    background-color: white;
+    width: 300px;
     border-radius: 25px;
+    border-color: black;
     margin: 2%;
-    padding: 1%;
-    align-content: center;
+    padding: 20px;
+    align-content:  center;
+    color:black;
 } 
 
 .footer {
@@ -19,19 +20,3 @@ text{color: black;}
 
 }
 
-.button {
-
-    align-content: center;
-    border-radius: 25px;
-    margin: 1%;
-    font-size: 20px;
-    width: 50%; 
-    padding: 15px 32px;
-    background-color: orange;
-    color: white;
-    border-width: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: inherit;
-    cursor: pointer;
-
-}
